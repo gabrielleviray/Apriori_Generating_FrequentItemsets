@@ -7,7 +7,7 @@ Libraries used:
 
 Given dataset:
 
-<blockquote>dataset =
+<blockquote>dataset =<br></br>
            [['Milk', 'Onion', 'Bread', 'Cheese', 'Cereals', 'Yogurt'],
            ['Oil', 'Onion', 'Bread', 'Cheese', 'Cereals', 'Yogurt'],
            ['Milk', 'Orange', 'Cheese', 'Cereals'],
