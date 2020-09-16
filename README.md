@@ -22,7 +22,7 @@ Analyzing data for:
     <li> Display associations rules for metric = 'support' and min_threshold = 0.6 </li>
     <li> At least 2 antecedents and confidence greater than or equal to 0.75 </li>
     <li> Support atleast 0.8 and lift atleast 1.00 </li>
-    <li> sort the rules in descending order first by length of antecedents and then by lift </li>
+    <li> Sort the rules in descending order first by length of antecedents and then by lift </li>
   </ul>
 </blockquote>
 
