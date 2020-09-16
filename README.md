@@ -7,11 +7,11 @@ Libraries used:
 
 Given dataset:
 
-<text-indent>dataset = [['Milk', 'Onion', 'Bread', 'Cheese', 'Cereals', 'Yogurt'],
+<blockquote>dataset = [['Milk', 'Onion', 'Bread', 'Cheese', 'Cereals', 'Yogurt'],
            ['Oil', 'Onion', 'Bread', 'Cheese', 'Cereals', 'Yogurt'],
            ['Milk', 'Orange', 'Cheese', 'Cereals'],
            ['Milk', 'Eggs', 'Corn', 'Cheese', 'Yogurt'],
            ['Corn', 'Onion', 'Cheese', 'Ice cream', 'Cereals']]
-</text-indent>
+</blockquote>
           
          
