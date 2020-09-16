@@ -27,6 +27,6 @@ Analyzing data for:
 </blockquote>
 
 Results:
-
+<img src="https://github.com/gabrielleviray/Apriori_Generating_FrequentItemsets/blob/master/apriori_1.JPG" </img>
           
          
