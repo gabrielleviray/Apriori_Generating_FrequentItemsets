@@ -1,5 +1,5 @@
 # Apriori_Generating_FrequentItemsets
-Libraries used:
+###Libraries used:
 <ul>
   <li>Pandas Library: Used to manipulate the dataframe.</li>
   <li>Machine Learning Extended Library: Provides Apriori algorithm to generate association rules for extracting Frequent Itemsets.</li>
