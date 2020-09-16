@@ -28,6 +28,6 @@ Analyzing data for:
 
 Results:
 <img src="apriori_1.JPG">
-<img src=apriori_2.JPG">
-<img src=apriori_3.JPG">
+<img src="apriori_2.JPG">
+<img src="apriori_3.JPG">
          
