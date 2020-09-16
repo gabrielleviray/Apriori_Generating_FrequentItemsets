@@ -8,11 +8,11 @@ Libraries used:
 Given dataset:
 
 <blockquote>dataset =<br></br>
-           [['Milk', 'Onion', 'Bread', 'Cheese', 'Cereals', 'Yogurt'],
-           ['Oil', 'Onion', 'Bread', 'Cheese', 'Cereals', 'Yogurt'],
-           ['Milk', 'Orange', 'Cheese', 'Cereals'],
-           ['Milk', 'Eggs', 'Corn', 'Cheese', 'Yogurt'],
-           ['Corn', 'Onion', 'Cheese', 'Ice cream', 'Cereals']]
+           [['Milk', 'Onion', 'Bread', 'Cheese', 'Cereals', 'Yogurt'],<br></br>
+           ['Oil', 'Onion', 'Bread', 'Cheese', 'Cereals', 'Yogurt'],<br></br>
+           ['Milk', 'Orange', 'Cheese', 'Cereals'],<br></br>
+           ['Milk', 'Eggs', 'Corn', 'Cheese', 'Yogurt'],<br></br>
+           ['Corn', 'Onion', 'Cheese', 'Ice cream', 'Cereals']]<br></br>
 </blockquote>
           
          
